@@ -1,0 +1,24 @@
+{
+  "name": "code-request",
+  "version": "1.0.0",
+  "description": "cdoe npm install request",
+  "main": "bash.js",
+  "dependencies": {
+    "node": "^14.12.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juholee96/Pair-Exercise-Node-Shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juholee96/Pair-Exercise-Node-Shell/issues"
+  },
+  "homepage": "https://github.com/juholee96/Pair-Exercise-Node-Shell#readme"
+}
